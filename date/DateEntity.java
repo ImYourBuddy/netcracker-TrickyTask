@@ -1,7 +1,7 @@
 package ru.netcracker.edu.karpov.date;
 
 /**
- * Class describing a matrix as an entity
+ * Class describing a date as an entity
  */
 
 public class DateEntity {
